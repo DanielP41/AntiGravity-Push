@@ -1,0 +1,34 @@
+﻿[
+    {
+        "id":  "a9c98df3-ad29-4aad-b30f-72fcbcfc113c",
+        "timestamp":  "2026-01-10 03:32:54",
+        "title":  "Antigravity Push",
+        "message":  "Protocolo Activado: Usare este canal para consultarte.",
+        "keys":  "Genial [g]",
+        "response":  null
+    },
+    {
+        "id":  "1a929fc4-b20a-45a5-8588-da886492bf08",
+        "timestamp":  "2026-01-10 03:23:17",
+        "title":  "Antigravity Push",
+        "message":  "Test Remote Input",
+        "keys":  "Texto [input]",
+        "response":  null
+    },
+    {
+        "id":  "48a2585b-5fbd-4966-94cc-fb297dbf211c",
+        "timestamp":  "2026-01-10 03:14:13",
+        "title":  "Antigravity Push",
+        "message":  "Test History 2",
+        "keys":  "C, D",
+        "response":  null
+    },
+    {
+        "id":  "71fa42dd-bfa8-4660-aac0-107dd704b4e1",
+        "timestamp":  "2026-01-10 03:14:11",
+        "title":  "Antigravity Push",
+        "message":  "Test History 1",
+        "keys":  "A, B",
+        "response":  null
+    }
+]

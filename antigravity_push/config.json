@@ -1,0 +1,6 @@
+﻿{
+    "ntfy":  {
+                 "server":  "https://ntfy.sh",
+                 "topic":  "AGN"
+             }
+}
