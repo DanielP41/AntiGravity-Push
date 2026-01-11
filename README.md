@@ -1,4 +1,5 @@
 # AntiGravity-Push
+<img width="1309" height="378" alt="Screenshot 2026-01-11 024617" src="https://github.com/user-attachments/assets/0c9ca70c-a523-4f31-800a-945be9fee319" />
 
 Recibe notificaciones push en tu teléfono cuando Antigravity necesite tu intervención. Responde con botones directamente desde la notificación.
 
