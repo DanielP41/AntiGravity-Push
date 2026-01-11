@@ -68,4 +68,7 @@ Presionas "Allow" o "Deny" (o cualquier tecla configurada)
         ↓
 Pulsación de tecla enviada a la terminal activa
 ```
+<img width="832" height="1248" alt="AGNpng" src="https://github.com/user-attachments/assets/3694fa00-293b-4f04-9f7b-0938fc596540" />
+
+
 
