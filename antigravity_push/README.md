@@ -47,7 +47,7 @@ Puedes consultar el historial para verificar qué acciones autorizaste anteriorm
 
 ## Input de Texto Remoto
 
-¿Necesitas escribir un comando largo, un nombre de archivo o cualquier texto libre?
+Necesitas escribir un comando largo, un nombre de archivo o cualquier texto libre?
 
 1. Envía una notificación incluyendo un botón con la etiqueta `[input]`.
    Ejemplo: `.\AntigravityPush.ps1 -Message "Nombre del commit?" -Keys "Texto [input]"`
